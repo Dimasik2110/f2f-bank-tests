@@ -18,7 +18,7 @@ End-to-end тесты для веб-приложения F2F Bank с испол�
 
 Клонировать репозиторий:
 
-```bash
+```bash```
 git clone https://github.com/Dimasik2110/f2f-bank-tests.git
 cd f2f-bank-tests
 Запустить приложение:
